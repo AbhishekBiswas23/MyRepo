@@ -1,5 +1,3 @@
-# DevOps Project Workshop by Valaxy Technologies
-
 In this project we are going cover
 
 Git/GitHub
